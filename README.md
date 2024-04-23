@@ -30,6 +30,8 @@ To get a local copy up and running, follow these simple steps.
 ## Features
  - View top headlines from various categories like Business, Sports, Entertainment, Health, Science, and Technology.
  - Search for specific news using the search bar.
+ - Pagination
+ - Class based components
 
 ## Built with
  - React.js
