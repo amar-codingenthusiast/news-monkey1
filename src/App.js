@@ -18,7 +18,7 @@ export default class App extends Component {
 
 	render() {
 		return (
-			<Router basename="news-monkey1">
+			<Router>
 				<Navbar onSearch={this.handleSearch} />
 				<div style={{minHeight: "77.5vh"}}>
 				<Routes>

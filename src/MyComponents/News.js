@@ -4,6 +4,7 @@ import Loading from "./Loading.gif";
 
 export default class News extends Component {
 	apikey = process.env.REACT_APP_API_KEY1;
+	// apikey = process.env.REACT_APP_API_KEY2;
 	constructor() {
 		super();
 		this.state = {
